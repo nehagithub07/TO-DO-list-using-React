@@ -1,7 +1,5 @@
 # TO-DO List using React
 
-![Owner Avatar](https://avatars.githubusercontent.com/u/0000000?v=4)  <!-- Replace with actual avatar URL -->
-
 ## Project Overview
 
 The **TO-DO List using React** is a simple and interactive application built with React. It allows users to manage their tasks efficiently by adding, editing, and removing tasks. The project demonstrates fundamental React concepts and state management while providing a clean and responsive user interface.
